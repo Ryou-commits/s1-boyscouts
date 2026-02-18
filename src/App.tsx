@@ -41,7 +41,7 @@ const BADGES: Badge[] = [
     id: "pioneering",
     name: "أعمال الريادة",
     category: "سلسلة التخييم",
-    image: "/raed.jpg",
+    image: "",
     requirements: [
       "أعمال الريادة",
       "",
@@ -2007,7 +2007,7 @@ const BADGES: Badge[] = [
     id: "kashaf-raed",
     name: "الكشاف الرائد",
     category: "رتبة",
-    image: "",
+    image: "/raed.jpg",
     requirements: [
       "الكشاف الرائد",
       "",
