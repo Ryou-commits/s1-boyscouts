@@ -541,7 +541,7 @@ const BADGES: Badge[] = [
     id: "builder",
     name: "البناء",
     category: "سلسلة المهن",
-    image: "",
+    image: "/albina2.jpeg",
     requirements: [
       "البناء",
       "",
@@ -556,7 +556,7 @@ const BADGES: Badge[] = [
     id: "weaver",
     name: "الحائك",
     category: "سلسلة المهن",
-    image: "",
+    image: "/haek.jpeg",
     requirements: [
       "الحائك",
       "",
@@ -573,7 +573,7 @@ const BADGES: Badge[] = [
     id: "blacksmith",
     name: "الحداد",
     category: "سلسلة المهن",
-    image: "",
+    image: "/haddad.jpeg",
     requirements: [
       "الحداد",
       "",
@@ -590,7 +590,7 @@ const BADGES: Badge[] = [
     id: "tailor",
     name: "الخياط",
     category: "سلسلة المهن",
-    image: "",
+    image: "/khayyat.jpeg",
     requirements: [
       "الخياط",
       "",
@@ -604,7 +604,7 @@ const BADGES: Badge[] = [
     id: "painter",
     name: "الدهان",
     category: "سلسلة المهن",
-    image: "",
+    image: "/dahan.jpeg",
     requirements: [
       "الدهان",
       "",
@@ -625,7 +625,7 @@ const BADGES: Badge[] = [
     id: "radio-electric",
     name: "الراديو - الكهربائي",
     category: "سلسلة المهن",
-    image: "",
+    image: "/radio-kahraba.jpeg",
     requirements: [
       "الراديو - الكهربائي",
       "",
@@ -639,7 +639,7 @@ const BADGES: Badge[] = [
     id: "plumber",
     name: "السباك",
     category: "سلسلة المهن",
-    image: "",
+    image: "/sabbak.jpeg",
     requirements: [
       "السباك",
       "",
@@ -666,7 +666,7 @@ const BADGES: Badge[] = [
     id: "basket-maker",
     name: "صانع السلال",
     category: "سلسلة المهن",
-    image: "",
+    image: "/sane3-selal.jpeg",
     requirements: [
       "صانع السلال",
       "",
@@ -679,7 +679,7 @@ const BADGES: Badge[] = [
     id: "wool-worker",
     name: "شاغل الصوف",
     category: "سلسلة المهن",
-    image: "",
+    image: "/shaghel-souf.jpeg",
     requirements: [
       "شاغل الصوف",
       "",
@@ -694,7 +694,7 @@ const BADGES: Badge[] = [
     id: "journalist",
     name: "الصحافي",
     category: "سلسلة المهن",
-    image: "",
+    image: "/sahafe.jpeg",
     requirements: [
       "الصحافي",
       "",
@@ -710,7 +710,7 @@ const BADGES: Badge[] = [
     id: "pilot",
     name: "الطيار",
     category: "سلسلة المهن",
-    image: "",
+    image: "/tayyar.jpeg",
     requirements: [
       "الطيار",
       "",
@@ -755,7 +755,7 @@ const BADGES: Badge[] = [
     id: "laundry",
     name: "الغسال",
     category: "سلسلة المهن",
-    image: "",
+    image: "/ghassal.jpeg",
     requirements: [
       "الغسال",
       "",
@@ -772,7 +772,7 @@ const BADGES: Badge[] = [
     id: "potter",
     name: "الفاخوري",
     category: "سلسلة المهن",
-    image: "",
+    image: "/fakhouri.jpeg",
     requirements: [
       "الفاخوري",
       "",
@@ -786,7 +786,7 @@ const BADGES: Badge[] = [
     id: "electrician",
     name: "الكهربائي",
     category: "سلسلة المهن",
-    image: "",
+    image: "/kahraba2i.jpeg",
     requirements: [
       "الكهربائي",
       "",
@@ -805,7 +805,7 @@ const BADGES: Badge[] = [
     id: "computer",
     name: "الكومبيوتر",
     category: "سلسلة المهن",
-    image: "",
+    image: "/computer.jpeg",
     requirements: [
       "الكومبيوتر",
       "",
@@ -860,7 +860,7 @@ const BADGES: Badge[] = [
     id: "handyman",
     name: "الماهر",
     category: "سلسلة المهن",
-    image: "",
+    image: "/maher.jpeg",
     requirements: [
       "الماهر",
       "",
@@ -911,7 +911,7 @@ const BADGES: Badge[] = [
     id: "bookbinder",
     name: "مجلد الكتب",
     category: "سلسلة المهن",
-    image: "",
+    image: "/mojaled-kotob.jpeg",
     requirements: [
       "مجلد الكتب",
       "",
@@ -926,7 +926,7 @@ const BADGES: Badge[] = [
     id: "embroiderer",
     name: "المطرز",
     category: "سلسلة المهن",
-    image: "",
+    image: "/motarez.jpeg",
     requirements: [
       "المطرز",
       "",
@@ -941,7 +941,7 @@ const BADGES: Badge[] = [
     id: "photo-curator",
     name: "المعتني بالتصوير",
     category: "سلسلة المهن",
-    image: "",
+    image: "/mo3tani-taswer.jpeg",
     requirements: [
       "المعتني بالتصوير",
       "",
@@ -956,7 +956,7 @@ const BADGES: Badge[] = [
     id: "carpenter",
     name: "النجار",
     category: "سلسلة المهن",
-    image: "",
+    image: "/najjar.jpeg",
     requirements: [
       "النجار",
       "",
@@ -975,7 +975,7 @@ const BADGES: Badge[] = [
     id: "mechanic",
     name: "الميكانيكي",
     category: "سلسلة المهن",
-    image: "",
+    image: "/mechanici.jpeg",
     requirements: [
       "الميكانيكي",
       "",
@@ -997,7 +997,7 @@ const BADGES: Badge[] = [
     id: "dairy",
     name: "اللبان",
     category: "سلسلة الزراعة",
-    image: "",
+    image: "/laban.jpeg",
     requirements: [
       "اللبان",
       "",
@@ -1020,7 +1020,7 @@ const BADGES: Badge[] = [
     id: "gardener",
     name: "البستاني",
     category: "سلسلة الزراعة",
-    image: "",
+    image: "/bostani.jpeg",
     requirements: [
       "البستاني",
       "",
@@ -1038,7 +1038,7 @@ const BADGES: Badge[] = [
     id: "poultry",
     name: "مربي الدواجن",
     category: "سلسلة الزراعة",
-    image: "",
+    image: "/morabi-dawajen.jpeg",
     requirements: [
       "مربي الدواجن",
       "",
@@ -1055,7 +1055,7 @@ const BADGES: Badge[] = [
     id: "beekeeper",
     name: "مربي النحل",
     category: "سلسلة الزراعة",
-    image: "",
+    image: "/morabi-nahel.jpeg",
     requirements: [
       "مربي النحل",
       "",
@@ -1072,7 +1072,7 @@ const BADGES: Badge[] = [
     id: "farmer",
     name: "المزارع",
     category: "سلسلة الزراعة",
-    image: "",
+    image: "/mozare3.jpeg",
     requirements: [
       "المزارع",
       "",
@@ -1093,7 +1093,7 @@ const BADGES: Badge[] = [
     id: "forestry",
     name: "المعتني بالاحراج",
     category: "سلسلة الزراعة",
-    image: "",
+    image: "/mo3tani-ahraj.jpeg",
     requirements: [
       "المعتني بالاحراج",
       "",
@@ -1112,7 +1112,7 @@ const BADGES: Badge[] = [
     id: "secretary",
     name: "أمين السر",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/amin-ser.jpeg",
     requirements: [
       "أمين السر",
       "",
@@ -1128,7 +1128,7 @@ const BADGES: Badge[] = [
     id: "home-management",
     name: "تدبير المنزل",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/tadbir-manzel.jpeg",
     requirements: [
       "تدبير المنزل",
       "",
@@ -1147,7 +1147,7 @@ const BADGES: Badge[] = [
     id: "guide",
     name: "الدليل",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/dalil.jpeg",
     requirements: [
       "الدليل",
       "",
@@ -1170,7 +1170,7 @@ const BADGES: Badge[] = [
     id: "messenger",
     name: "الرسول",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/rasool.jpeg",
     requirements: [
       "الرسول",
       "",
@@ -1193,7 +1193,7 @@ const BADGES: Badge[] = [
     id: "public-health",
     name: "الصحي العمومي",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/sohe-3omome.jpeg",
     requirements: [
       "الصحي العمومي",
       "",
@@ -1224,7 +1224,7 @@ const BADGES: Badge[] = [
     id: "world-friend",
     name: "الصديق العالمي",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/sadik-alami.jpeg",
     requirements: [
       "الصديق العالمي",
       "يحمل هذا الوسام الكشاف الذي سبق أن نال وسام المترجم :",
@@ -1242,7 +1242,7 @@ const BADGES: Badge[] = [
     id: "translator",
     name: "المترجم",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/motarjem.jpeg",
     requirements: [
       "المترجم",
       "",
@@ -1259,7 +1259,7 @@ const BADGES: Badge[] = [
     id: "child-care",
     name: "مربي الأطفال",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/morabi-atfal.jpeg",
     requirements: [
       "مربي الأطفال",
       "",
@@ -1278,7 +1278,7 @@ const BADGES: Badge[] = [
     id: "first-aid",
     name: "المسعف",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/mos3ef.jpeg",
     requirements: [
       "المسعف",
       "",
@@ -1321,7 +1321,7 @@ const BADGES: Badge[] = [
     id: "nurse",
     name: "الممرض",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/momared.jpeg",
     requirements: [
       "الممرض",
       "",
@@ -1349,7 +1349,7 @@ const BADGES: Badge[] = [
     id: "rescuer",
     name: "المنقذ",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/monkez.jpeg",
     requirements: [
       "المنقذ",
       "",
@@ -1378,7 +1378,7 @@ const BADGES: Badge[] = [
     id: "citizen",
     name: "المواطن",
     category: "سلسلة الخدمة",
-    image: "",
+    image: "/mowaten.jpeg",
     requirements: [
       "المواطن",
       "",
@@ -1409,7 +1409,7 @@ const BADGES: Badge[] = [
     id: "bugler",
     name: "البواق",
     category: "سلسلة الفن",
-    image: "",
+    image: "/bawak.jpeg",
     requirements: [
       "البواق",
       "",
@@ -1423,7 +1423,7 @@ const BADGES: Badge[] = [
     id: "stamp-collector",
     name: "جامع الطوابع",
     category: "سلسلة الفن",
-    image: "",
+    image: "/jame3-tawabe3.jpeg",
     requirements: [
       "جامع الطوابع",
       "",
@@ -1448,7 +1448,7 @@ const BADGES: Badge[] = [
     id: "collector",
     name: "جامع الأشياء",
     category: "سلسلة الفن",
-    image: "",
+    image: "/jamee-ashyaa.jpeg",
     requirements: [
       "جامع الأشياء",
       "",
@@ -1469,7 +1469,7 @@ const BADGES: Badge[] = [
     id: "dancer",
     name: "الراقص",
     category: "سلسلة الفن",
-    image: "",
+    image: "/rakes.jpeg",
     requirements: [
       "الراقص",
       "",
@@ -1484,7 +1484,7 @@ const BADGES: Badge[] = [
     id: "painter-artist",
     name: "الرسام",
     category: "سلسلة الفن",
-    image: "",
+    image: "/rassam.jpeg",
     requirements: [
       "الرسام",
       "",
@@ -1501,7 +1501,7 @@ const BADGES: Badge[] = [
     id: "reader",
     name: "القارىء",
     category: "سلسلة الفن",
-    image: "",
+    image: "/karee.jpeg",
     requirements: [
       "القارىء",
       "",
@@ -1516,7 +1516,7 @@ const BADGES: Badge[] = [
     id: "editor",
     name: "المحرر",
     category: "سلسلة الفن",
-    image: "",
+    image: "/moharrer.jpeg",
     requirements: [
       "المحرر",
       "",
@@ -1530,7 +1530,7 @@ const BADGES: Badge[] = [
     id: "entertainer",
     name: "المسامر",
     category: "سلسلة الفن",
-    image: "",
+    image: "/mosamer.jpeg",
     requirements: [
       "المسامر",
       "",
@@ -1551,7 +1551,7 @@ const BADGES: Badge[] = [
     id: "photographer",
     name: "المصور",
     category: "سلسلة الفن",
-    image: "",
+    image: "/mosawer.jpeg",
     requirements: [
       "المصور",
       "",
@@ -1566,7 +1566,7 @@ const BADGES: Badge[] = [
     id: "singer",
     name: "المغني",
     category: "سلسلة الفن",
-    image: "",
+    image: "/moghani.jpeg",
     requirements: [
       "المغني",
       "",
@@ -1580,7 +1580,7 @@ const BADGES: Badge[] = [
     id: "actor",
     name: "الممثل",
     category: "سلسلة الفن",
-    image: "",
+    image: "/momasel.jpeg",
     requirements: [
       "الممثل",
       "",
@@ -1601,7 +1601,7 @@ const BADGES: Badge[] = [
     id: "musician",
     name: "الموسيقى",
     category: "سلسلة الفن",
-    image: "",
+    image: "/mosi2a.jpeg",
     requirements: [
       "الموسيقى",
       "",
@@ -1620,7 +1620,7 @@ const BADGES: Badge[] = [
     id: "sculptor",
     name: "النحات",
     category: "سلسلة الفن",
-    image: "",
+    image: "/nahhat.jpeg",
     requirements: [
       "النحات",
       "",
@@ -1634,7 +1634,7 @@ const BADGES: Badge[] = [
     id: "marionette",
     name: "لاعب المريونات",
     category: "سلسلة الفن",
-    image: "",
+    image: "/marionet.jpeg",
     requirements: [
       "لاعب المريونات",
       "",
@@ -1655,7 +1655,7 @@ const BADGES: Badge[] = [
     id: "sports-games",
     name: "الألعاب الرياضية",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "alaab-riyadiya",
     requirements: [
       "الالعاب الرياضية",
       "",
@@ -1686,7 +1686,7 @@ const BADGES: Badge[] = [
     id: "skier",
     name: "المتزلج",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/motazalej.jpeg",
     requirements: [
       "المتزلج",
       "",
@@ -1711,7 +1711,7 @@ const BADGES: Badge[] = [
     id: "khayal",
     name: "الخيال",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/khayyal.jpeg",
     requirements: [
       "الخيال",
       "",
@@ -1744,7 +1744,7 @@ const BADGES: Badge[] = [
     id: "sports-riyadi",
     name: "الرياضي",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/riyadi.jpeg",
     requirements: [
       "الرياضي",
       "۱ - تفسير معنى الروح الرياضية :",
@@ -1794,7 +1794,7 @@ const BADGES: Badge[] = [
     id: "cyclist",
     name: "راكب الدراجة",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/rakeb-daraja.jpeg",
     requirements: [
       "راكب الدراجة",
       "",
@@ -1818,7 +1818,7 @@ const BADGES: Badge[] = [
     id: "archer",
     name: "الرامي",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/rami.jpeg",
     requirements: [
       "الرامي",
       "",
@@ -1839,7 +1839,7 @@ const BADGES: Badge[] = [
     id: "shooter-weapon",
     name: "الرامي بالسلاح",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/rami-selah.jpeg",
     extraImage: "/alrami-bel-silah.jpg",
     requirements: [
       "الرامي بالسلاح",
@@ -1865,7 +1865,7 @@ const BADGES: Badge[] = [
     id: "caver",
     name: "رجل المغاور",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/mghawer.jpeg",
     requirements: [
       "رجل المغاور",
       "",
@@ -1890,7 +1890,7 @@ const BADGES: Badge[] = [
     id: "strength-games",
     name: "ألعاب القوة",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/alaab-kowa.jpeg",
     extraImage: "/al3ab-alkowa.jpg",
     requirements: [
       "ألعاب القوة",
@@ -1908,7 +1908,7 @@ const BADGES: Badge[] = [
     id: "swimmer",
     name: "السابح",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/sabeh.jpeg",
     requirements: [
       "السابح",
       "",
@@ -1939,7 +1939,7 @@ const BADGES: Badge[] = [
     id: "climber",
     name: "المتسلق",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/motasalek.jpeg",
     requirements: [
       "المتسلق",
       "",
@@ -1959,7 +1959,7 @@ const BADGES: Badge[] = [
     id: "rower",
     name: "المجذف",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/mojazef.jpeg",
     requirements: [
       "المجذف",
       "",
@@ -1982,7 +1982,7 @@ const BADGES: Badge[] = [
     id: "sailor",
     name: "الملاح",
     category: "سلسلة الرياضة",
-    image: "",
+    image: "/mallah.jpeg",
     requirements: [
       "الملاح",
       "",
