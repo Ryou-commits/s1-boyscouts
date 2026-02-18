@@ -88,7 +88,7 @@ const BADGES: Badge[] = [
     id: "cook",
     name: "الطاهي",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/tahi.jpeg",
     requirements: [
       "الطاهي",
       "هذا الوسام لا يعطى إلا للكشاف الذي يطبخ بإتقان ونظافة .",
@@ -110,7 +110,7 @@ const BADGES: Badge[] = [
     id: "ropework",
     name: "العقاد",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/akkad.jpeg",
     requirements: [
       "العقاد",
       "",
@@ -133,7 +133,7 @@ const BADGES: Badge[] = [
     id: "signals",
     name: "المخابر",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/mokhaber.jpeg",
     requirements: [
       "المخابر",
       "",
@@ -148,7 +148,7 @@ const BADGES: Badge[] = [
     id: "camping",
     name: "المخيم",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/mokhayem.jpeg",
     requirements: [
       "المخيم",
       "",
@@ -187,7 +187,7 @@ const BADGES: Badge[] = [
     id: "surveyor",
     name: "المساح",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/massah.jpeg",
     requirements: [
       "المساح",
       "",
@@ -204,7 +204,7 @@ const BADGES: Badge[] = [
     id: "explorer",
     name: "المستكشف",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/mostakshef.jpeg",
     requirements: [
       "المستكشف",
       "لا يعطى هذا الوسام إلا للكشاف حامل وسام المخيم، والذي يحوز عليه يعفى من إستكشاف الدرجة الأولى .",
@@ -232,7 +232,7 @@ const BADGES: Badge[] = [
     id: "navigator",
     name: "الموجه",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/mowajjeh.jpeg",
     requirements: [
       "الموجه",
       "",
@@ -257,7 +257,7 @@ const BADGES: Badge[] = [
     id: "geologist",
     name: "الجيولوجي",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/geology.jpeg",
     requirements: [
       "الجيولوجي",
       "",
@@ -270,7 +270,7 @@ const BADGES: Badge[] = [
     id: "weather-observer",
     name: "الراصد الجوي",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/rased-jawe.jpeg",
     requirements: [
       "الراصد الجوي",
       "",
@@ -307,7 +307,7 @@ const BADGES: Badge[] = [
     id: "fisherman-samak",
     name: "السماك",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/sammak.jpeg",
     requirements: [
       "السماك",
       "",
@@ -326,7 +326,7 @@ const BADGES: Badge[] = [
     id: "bird-friend",
     name: "صديق العصافير",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/sadik-asafir.jpeg",
     requirements: [
       "صديق العصافير",
       "",
@@ -347,7 +347,7 @@ const BADGES: Badge[] = [
     id: "hunter",
     name: "الصياد",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/sayyad.jpeg",
     requirements: [
       "الصياد",
       "",
@@ -366,7 +366,7 @@ const BADGES: Badge[] = [
     id: "nature",
     name: "الطبيعة",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/tabi3a.jpeg",
     requirements: [
       "الطبيعة",
       "",
@@ -405,7 +405,7 @@ const BADGES: Badge[] = [
     id: "entomologist",
     name: "العالم بالحشرات",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/alem-hasharat.jpeg",
     requirements: [
       "العالم بالحشرات",
       "",
@@ -424,7 +424,7 @@ const BADGES: Badge[] = [
     id: "astronomer",
     name: "الفلكي",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/falaki.jpeg",
     requirements: [
       "الفلكي",
       "",
@@ -441,7 +441,7 @@ const BADGES: Badge[] = [
     id: "stalker",
     name: "المتربص",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/motarabes.jpeg",
     requirements: [
       "المتربص",
       "",
@@ -458,7 +458,7 @@ const BADGES: Badge[] = [
     id: "tracker",
     name: "مقتفي الأثر",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/moktafi-asar.jpeg",
     requirements: [
       "مقتفي الأثر",
       "",
@@ -481,7 +481,7 @@ const BADGES: Badge[] = [
     id: "observer",
     name: "الملاحظ",
     category: "سلسلة الطبيعة",
-    image: "",
+    image: "/molahez.jpeg",
     requirements: [
       "الملاحظ",
       "",
@@ -512,7 +512,7 @@ const BADGES: Badge[] = [
     id: "leatherwork",
     name: "الأعمال الجلدية",
     category: "سلسلة المهن",
-    image: "",
+    image: "/a3mal-jeld.jpeg",
     requirements: [
       "الأعمال الجلدية",
       "",
