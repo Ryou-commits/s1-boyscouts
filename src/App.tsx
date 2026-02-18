@@ -1655,7 +1655,7 @@ const BADGES: Badge[] = [
     id: "sports-games",
     name: "الألعاب الرياضية",
     category: "سلسلة الرياضة",
-    image: "alaab-riyadiya",
+    image: "/alaab-riyadiya.jpeg",
     requirements: [
       "الالعاب الرياضية",
       "",
