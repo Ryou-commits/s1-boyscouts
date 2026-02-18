@@ -27,7 +27,7 @@ type Badge = {
 // ✅ شعار جمعية الكشاف اللبناني
 // ضع الصورة داخل public (مثلاً: public/lsa-logo.jpeg) ثم اكتب:
 // const LOGO_IMAGE = "/lsa-logo.jpeg";
-const LOGO_IMAGE: string = "/lsa-logo.jpeg";
+const LOGO_IMAGE: string = "/scouts-wide.png";
 
 // ==============================
 // 🏅 قاعدة بيانات الأوسمة
