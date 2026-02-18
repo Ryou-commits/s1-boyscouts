@@ -41,7 +41,7 @@ const BADGES: Badge[] = [
     id: "pioneering",
     name: "أعمال الريادة",
     category: "سلسلة التخييم",
-    image: "",
+    image: "/raed.jpg",
     requirements: [
       "أعمال الريادة",
       "",
