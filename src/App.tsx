@@ -1891,7 +1891,7 @@ const BADGES: Badge[] = [
     name: "ألعاب القوة",
     category: "سلسلة الرياضة",
     image: "/alaab-kowa.jpeg",
-    extraImage: "/al3ab-alkowa.jpg",
+    extraImage: "/kowa-1.jpeg",
     requirements: [
       "ألعاب القوة",
       "",
