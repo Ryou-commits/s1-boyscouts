@@ -1840,7 +1840,7 @@ const BADGES: Badge[] = [
     name: "الرامي بالسلاح",
     category: "سلسلة الرياضة",
     image: "/rami-selah.jpeg",
-    extraImage: "/alrami-bel-silah.jpg",
+    extraImage: "/matlab 2.jpeg",
     requirements: [
       "الرامي بالسلاح",
       "",
